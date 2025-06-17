@@ -1,0 +1,11 @@
+{
+	"languageMode": "strict",
+	"aliases": {
+		"server": "./src/server",
+		"packages": "./src/packages",
+		"pkg": "./src/packages",
+		"lune": "~/.lune/.typedefs/0.8.9"
+	},
+	"lintErrors": false,
+	"typeErrors": true
+}
