@@ -1,4 +1,4 @@
-# paste-template-noclient
+# paste-template
 
 This is a template repository designed to boost the coding workflow for Axype pastes. Feel free to clone & use it for new Axype work!
 
